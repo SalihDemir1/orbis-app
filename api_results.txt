@@ -1,0 +1,5 @@
+HATA: models/gemini-2.5-pro - ResourceExhausted
+HATA: models/gemini-pro-latest - ResourceExhausted
+BASARILI: models/gemini-flash-lite-latest - Ben bir yapay zeka m
+HATA: models/gemini-2.0-flash-lite-001 - ResourceExhausted
+BASARILI: models/gemma-3-4b-it - Ben bir dil modeliyi
