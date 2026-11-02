@@ -1,16 +1,20 @@
-# akilli_asistan
+# Orbis - Akıllı Mobil Asistan
 
-A new Flutter project.
+Orbis, Flutter mimarisi üzerine inşa edilmiş, sesli komut desteği ve yerel veri depolama kabiliyetlerine sahip yapay zeka destekli bir akıllı mobil asistan uygulamasıdır.
 
-## Getting Started
+## Öne Çıkan Özellikler
+- Sesli Komut & Asistan Entegrasyonu: `speech_to_text` ve `flutter_tts` ile sesli etkileşim.
+- Hızlı Yerel Depolama: `Isar Database` altyapısı ile sohbet geçmişi ve verilerin cihazda güvenli saklanması.
+- Özel Animasyonlar: Custom painter yapıları ile dinamik asistan arayüzü.
+- Yüksek Performans: Cross-platform (Android/iOS) uyumlu Flutter mimarisi.
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- Dil: Dart
+- Framework: Flutter
+- Veritabanı: Isar DB
+- Paketler: `flutter_tts`, `speech_to_text`, `http`
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum ve Çalıştırma
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Repoyu kopyala:
+git clone https://github.com/SalihDemir1/orbis-app.git
